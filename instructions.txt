@@ -1,6 +1,3 @@
 Instructions for deploying this site to the server
 ------------------------
 Por un dolor, morena de mis amores. Lorem ipsum quien sabeum
-
-Installation Instructions
-------------------------
